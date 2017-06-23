@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    let vuforiaLicenseKey = "AdXi9wH/////AAAAGRYmUtRmNktGnWkHUnO95l13T9aaH1ofzoVjBtw/9yu0AH5eFGECsseu9dV4VjSPPTRwy1CE9iGAKBT7Gb0rUDFUTk5UgrVLXJ1ik1LBFfXhlRrrLk0UTRxTev+aKXepTXdpPOISG7dtM7ige/tS0nJkva1PNHUpEXRdVSVLQ4EcIPDa9f4RIm6yZ4PVQo633dwBcjmne21UWHIT0rboFU7gN1rUyRwnzBYSODPfXJHcW8DxL6ADHenoN95HfOOdXXhsHRsMBzzkAafo0f2b+4MfD/wz/eMlYt/HTFNvxR0m+f75yy26uLWLS/4AWVQKw217Ne08YszONHsamftyTPkMmwfWtDogoJMffkig4d9L"
+    let vuforiaLicenseKey = "your key"
     
     let vuforiaDataSetFile = "poprobuem.xml"
     
