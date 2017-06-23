@@ -47,6 +47,9 @@
 		66AC1FDB1EFD6161000F1398 /* Crash.dae in Resources */ = {isa = PBXBuildFile; fileRef = 66AC1FB21EFD6161000F1398 /* Crash.dae */; };
 		66AC1FDC1EFD6161000F1398 /* poprobuem.dat in Resources */ = {isa = PBXBuildFile; fileRef = 66AC1FB41EFD6161000F1398 /* poprobuem.dat */; };
 		66AC1FDD1EFD6161000F1398 /* poprobuem.xml in Resources */ = {isa = PBXBuildFile; fileRef = 66AC1FB51EFD6161000F1398 /* poprobuem.xml */; };
+		66AC1FE11EFD6496000F1398 /* ajan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 66AC1FDE1EFD6496000F1398 /* ajan.jpg */; };
+		66AC1FE21EFD6496000F1398 /* chips.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 66AC1FDF1EFD6496000F1398 /* chips.jpg */; };
+		66AC1FE31EFD6496000F1398 /* stones.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 66AC1FE01EFD6496000F1398 /* stones.jpg */; };
 		926096D41D4163B600510C24 /* SpriteKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 926096D31D4163B600510C24 /* SpriteKit.framework */; };
 		927B76D71D27FDC600C4F5CC /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 927B76D41D27FDC600C4F5CC /* AVFoundation.framework */; };
 		927B76D81D27FDC600C4F5CC /* CoreMotion.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 927B76D51D27FDC600C4F5CC /* CoreMotion.framework */; };
@@ -115,6 +118,9 @@
 		66AC1FB21EFD6161000F1398 /* Crash.dae */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml.dae; name = Crash.dae; path = "VuforiaSampleSwift/VuforiaAssets/ImageTargets/PlayStation - Crash Bandicoot - Crash Bandicoot/Crash.dae"; sourceTree = SOURCE_ROOT; };
 		66AC1FB41EFD6161000F1398 /* poprobuem.dat */ = {isa = PBXFileReference; lastKnownFileType = file; name = poprobuem.dat; path = "poprobuem 2/poprobuem.dat"; sourceTree = "<group>"; };
 		66AC1FB51EFD6161000F1398 /* poprobuem.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = poprobuem.xml; path = "poprobuem 2/poprobuem.xml"; sourceTree = "<group>"; };
+		66AC1FDE1EFD6496000F1398 /* ajan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ajan.jpg; sourceTree = "<group>"; };
+		66AC1FDF1EFD6496000F1398 /* chips.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chips.jpg; sourceTree = "<group>"; };
+		66AC1FE01EFD6496000F1398 /* stones.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = stones.jpg; sourceTree = "<group>"; };
 		926096D31D4163B600510C24 /* SpriteKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SpriteKit.framework; path = System/Library/Frameworks/SpriteKit.framework; sourceTree = SDKROOT; };
 		927B76D31D27FDC600C4F5CC /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
 		927B76D41D27FDC600C4F5CC /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
@@ -558,6 +564,9 @@
 				66AC1F881EFD6161000F1398 /* Mario */,
 				92DCE9B51E37CEA400E0DE1C /* IT.png */,
 				92DCE9B61E37CEA400E0DE1C /* IT_about.html */,
+				66AC1FDE1EFD6496000F1398 /* ajan.jpg */,
+				66AC1FDF1EFD6496000F1398 /* chips.jpg */,
+				66AC1FE01EFD6496000F1398 /* stones.jpg */,
 				66AC1FB41EFD6161000F1398 /* poprobuem.dat */,
 				66AC1FB51EFD6161000F1398 /* poprobuem.xml */,
 			);
@@ -646,14 +655,17 @@
 				66AC1FD71EFD6161000F1398 /* WaitB.smd in Resources */,
 				66AC1FCF1EFD6161000F1398 /* Pose.smd in Resources */,
 				66AC1FC31EFD6161000F1398 /* player_dw01_MarioEye_dif.4.png in Resources */,
+				66AC1FE11EFD6496000F1398 /* ajan.jpg in Resources */,
 				66AC1FCD1EFD6161000F1398 /* Land.smd in Resources */,
 				92AA11101D27A5EB00E56CBE /* Assets.xcassets in Resources */,
 				66AC1FCA1EFD6161000F1398 /* Greeting.smd in Resources */,
+				66AC1FE31EFD6496000F1398 /* stones.jpg in Resources */,
 				66AC1FCE1EFD6161000F1398 /* Notice.smd in Resources */,
 				66AC1FD11EFD6161000F1398 /* SleepEnd.smd in Resources */,
 				928C34251EAF608600BC07DE /* readme.txt in Resources */,
 				92AA11851D27B96300E56CBE /* Localizable.strings in Resources */,
 				66AC1FB71EFD6161000F1398 /* mesh_5_.smd in Resources */,
+				66AC1FE21EFD6496000F1398 /* chips.jpg in Resources */,
 				66AC1FCC1EFD6161000F1398 /* Jump.smd in Resources */,
 				66AC1FBA1EFD6161000F1398 /* mesh_8_.smd in Resources */,
 				66AC1FD91EFD6161000F1398 /* CrashShoes.png in Resources */,
