@@ -7,45 +7,46 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		663A59761EE885AA00FAB4C9 /* mesh_4_.smd in Resources */ = {isa = PBXBuildFile; fileRef = 663A59541EE885AA00FAB4C9 /* mesh_4_.smd */; };
-		663A59771EE885AA00FAB4C9 /* mesh_5_.smd in Resources */ = {isa = PBXBuildFile; fileRef = 663A59551EE885AA00FAB4C9 /* mesh_5_.smd */; };
-		663A59781EE885AA00FAB4C9 /* mesh_6_.smd in Resources */ = {isa = PBXBuildFile; fileRef = 663A59561EE885AA00FAB4C9 /* mesh_6_.smd */; };
-		663A59791EE885AA00FAB4C9 /* mesh_7_.smd in Resources */ = {isa = PBXBuildFile; fileRef = 663A59571EE885AA00FAB4C9 /* mesh_7_.smd */; };
-		663A597A1EE885AA00FAB4C9 /* mesh_8_.smd in Resources */ = {isa = PBXBuildFile; fileRef = 663A59581EE885AA00FAB4C9 /* mesh_8_.smd */; };
-		663A597B1EE885AA00FAB4C9 /* mesh_9_.smd in Resources */ = {isa = PBXBuildFile; fileRef = 663A59591EE885AA00FAB4C9 /* mesh_9_.smd */; };
-		663A597C1EE885AA00FAB4C9 /* Mario.dae in Resources */ = {isa = PBXBuildFile; fileRef = 663A595A1EE885AA00FAB4C9 /* Mario.dae */; };
-		663A597D1EE885AA00FAB4C9 /* mario.smd in Resources */ = {isa = PBXBuildFile; fileRef = 663A595B1EE885AA00FAB4C9 /* mario.smd */; };
-		663A597E1EE885AA00FAB4C9 /* player_dw01_MarioBody_dif.png in Resources */ = {isa = PBXBuildFile; fileRef = 663A595C1EE885AA00FAB4C9 /* player_dw01_MarioBody_dif.png */; };
-		663A597F1EE885AA00FAB4C9 /* player_dw01_MarioEye_dif.0.png in Resources */ = {isa = PBXBuildFile; fileRef = 663A595D1EE885AA00FAB4C9 /* player_dw01_MarioEye_dif.0.png */; };
-		663A59801EE885AA00FAB4C9 /* player_dw01_MarioEye_dif.1.png in Resources */ = {isa = PBXBuildFile; fileRef = 663A595E1EE885AA00FAB4C9 /* player_dw01_MarioEye_dif.1.png */; };
-		663A59811EE885AA00FAB4C9 /* player_dw01_MarioEye_dif.2.png in Resources */ = {isa = PBXBuildFile; fileRef = 663A595F1EE885AA00FAB4C9 /* player_dw01_MarioEye_dif.2.png */; };
-		663A59821EE885AA00FAB4C9 /* player_dw01_MarioEye_dif.3.png in Resources */ = {isa = PBXBuildFile; fileRef = 663A59601EE885AA00FAB4C9 /* player_dw01_MarioEye_dif.3.png */; };
-		663A59831EE885AA00FAB4C9 /* player_dw01_MarioEye_dif.4.png in Resources */ = {isa = PBXBuildFile; fileRef = 663A59611EE885AA00FAB4C9 /* player_dw01_MarioEye_dif.4.png */; };
-		663A59841EE885AA00FAB4C9 /* player_dw01_MarioEye_dif.5.png in Resources */ = {isa = PBXBuildFile; fileRef = 663A59621EE885AA00FAB4C9 /* player_dw01_MarioEye_dif.5.png */; };
-		663A59851EE885AA00FAB4C9 /* player_dw01_MarioEye_dif.6.png in Resources */ = {isa = PBXBuildFile; fileRef = 663A59631EE885AA00FAB4C9 /* player_dw01_MarioEye_dif.6.png */; };
-		663A59861EE885AA00FAB4C9 /* player_dw01_MarioEye_dif.7.png in Resources */ = {isa = PBXBuildFile; fileRef = 663A59641EE885AA00FAB4C9 /* player_dw01_MarioEye_dif.7.png */; };
-		663A59871EE885AA00FAB4C9 /* player_dw01_MarioHand_dif.png in Resources */ = {isa = PBXBuildFile; fileRef = 663A59651EE885AA00FAB4C9 /* player_dw01_MarioHand_dif.png */; };
-		663A59881EE885AA00FAB4C9 /* player_dw01_MarioHead_dif.png in Resources */ = {isa = PBXBuildFile; fileRef = 663A59661EE885AA00FAB4C9 /* player_dw01_MarioHead_dif.png */; };
-		663A59891EE885AA00FAB4C9 /* Greeting.smd in Resources */ = {isa = PBXBuildFile; fileRef = 663A59681EE885AA00FAB4C9 /* Greeting.smd */; };
-		663A598A1EE885AA00FAB4C9 /* GreetingStart.smd in Resources */ = {isa = PBXBuildFile; fileRef = 663A59691EE885AA00FAB4C9 /* GreetingStart.smd */; };
-		663A598B1EE885AA00FAB4C9 /* Jump.smd in Resources */ = {isa = PBXBuildFile; fileRef = 663A596A1EE885AA00FAB4C9 /* Jump.smd */; };
-		663A598C1EE885AA00FAB4C9 /* Land.smd in Resources */ = {isa = PBXBuildFile; fileRef = 663A596B1EE885AA00FAB4C9 /* Land.smd */; };
-		663A598D1EE885AA00FAB4C9 /* Notice.smd in Resources */ = {isa = PBXBuildFile; fileRef = 663A596C1EE885AA00FAB4C9 /* Notice.smd */; };
-		663A598E1EE885AA00FAB4C9 /* Pose.smd in Resources */ = {isa = PBXBuildFile; fileRef = 663A596D1EE885AA00FAB4C9 /* Pose.smd */; };
-		663A598F1EE885AA00FAB4C9 /* Sleep.smd in Resources */ = {isa = PBXBuildFile; fileRef = 663A596E1EE885AA00FAB4C9 /* Sleep.smd */; };
-		663A59901EE885AA00FAB4C9 /* SleepEnd.smd in Resources */ = {isa = PBXBuildFile; fileRef = 663A596F1EE885AA00FAB4C9 /* SleepEnd.smd */; };
-		663A59911EE885AA00FAB4C9 /* SleepStart.smd in Resources */ = {isa = PBXBuildFile; fileRef = 663A59701EE885AA00FAB4C9 /* SleepStart.smd */; };
-		663A59921EE885AA00FAB4C9 /* Surprise.smd in Resources */ = {isa = PBXBuildFile; fileRef = 663A59711EE885AA00FAB4C9 /* Surprise.smd */; };
-		663A59931EE885AA00FAB4C9 /* TurnL.smd in Resources */ = {isa = PBXBuildFile; fileRef = 663A59721EE885AA00FAB4C9 /* TurnL.smd */; };
-		663A59941EE885AA00FAB4C9 /* TurnR.smd in Resources */ = {isa = PBXBuildFile; fileRef = 663A59731EE885AA00FAB4C9 /* TurnR.smd */; };
-		663A59951EE885AA00FAB4C9 /* WaitA.smd in Resources */ = {isa = PBXBuildFile; fileRef = 663A59741EE885AA00FAB4C9 /* WaitA.smd */; };
-		663A59961EE885AA00FAB4C9 /* WaitB.smd in Resources */ = {isa = PBXBuildFile; fileRef = 663A59751EE885AA00FAB4C9 /* WaitB.smd */; };
-		663A599B1EE88CF000FAB4C9 /* CrashBack.png in Resources */ = {isa = PBXBuildFile; fileRef = 663A59981EE88CF000FAB4C9 /* CrashBack.png */; };
-		663A599C1EE88CF000FAB4C9 /* CrashShoes.png in Resources */ = {isa = PBXBuildFile; fileRef = 663A59991EE88CF000FAB4C9 /* CrashShoes.png */; };
-		663A599D1EE88CF000FAB4C9 /* material_1.png in Resources */ = {isa = PBXBuildFile; fileRef = 663A599A1EE88CF000FAB4C9 /* material_1.png */; };
-		663A599F1EE88D0300FAB4C9 /* Crash.dae in Resources */ = {isa = PBXBuildFile; fileRef = 663A599E1EE88D0300FAB4C9 /* Crash.dae */; };
-		669C0B231EF67D4A008B8A5E /* poprobuem.dat in Resources */ = {isa = PBXBuildFile; fileRef = 669C0B211EF67D4A008B8A5E /* poprobuem.dat */; };
-		669C0B241EF67D4A008B8A5E /* poprobuem.xml in Resources */ = {isa = PBXBuildFile; fileRef = 669C0B221EF67D4A008B8A5E /* poprobuem.xml */; };
+		66AC1FB61EFD6161000F1398 /* mesh_4_.smd in Resources */ = {isa = PBXBuildFile; fileRef = 66AC1F8A1EFD6161000F1398 /* mesh_4_.smd */; };
+		66AC1FB71EFD6161000F1398 /* mesh_5_.smd in Resources */ = {isa = PBXBuildFile; fileRef = 66AC1F8B1EFD6161000F1398 /* mesh_5_.smd */; };
+		66AC1FB81EFD6161000F1398 /* mesh_6_.smd in Resources */ = {isa = PBXBuildFile; fileRef = 66AC1F8C1EFD6161000F1398 /* mesh_6_.smd */; };
+		66AC1FB91EFD6161000F1398 /* mesh_7_.smd in Resources */ = {isa = PBXBuildFile; fileRef = 66AC1F8D1EFD6161000F1398 /* mesh_7_.smd */; };
+		66AC1FBA1EFD6161000F1398 /* mesh_8_.smd in Resources */ = {isa = PBXBuildFile; fileRef = 66AC1F8E1EFD6161000F1398 /* mesh_8_.smd */; };
+		66AC1FBB1EFD6161000F1398 /* mesh_9_.smd in Resources */ = {isa = PBXBuildFile; fileRef = 66AC1F8F1EFD6161000F1398 /* mesh_9_.smd */; };
+		66AC1FBC1EFD6161000F1398 /* Mario.dae in Resources */ = {isa = PBXBuildFile; fileRef = 66AC1F901EFD6161000F1398 /* Mario.dae */; };
+		66AC1FBD1EFD6161000F1398 /* mario.smd in Resources */ = {isa = PBXBuildFile; fileRef = 66AC1F911EFD6161000F1398 /* mario.smd */; };
+		66AC1FBE1EFD6161000F1398 /* player_dw01_MarioBody_dif.png in Resources */ = {isa = PBXBuildFile; fileRef = 66AC1F921EFD6161000F1398 /* player_dw01_MarioBody_dif.png */; };
+		66AC1FBF1EFD6161000F1398 /* player_dw01_MarioEye_dif.0.png in Resources */ = {isa = PBXBuildFile; fileRef = 66AC1F931EFD6161000F1398 /* player_dw01_MarioEye_dif.0.png */; };
+		66AC1FC01EFD6161000F1398 /* player_dw01_MarioEye_dif.1.png in Resources */ = {isa = PBXBuildFile; fileRef = 66AC1F941EFD6161000F1398 /* player_dw01_MarioEye_dif.1.png */; };
+		66AC1FC11EFD6161000F1398 /* player_dw01_MarioEye_dif.2.png in Resources */ = {isa = PBXBuildFile; fileRef = 66AC1F951EFD6161000F1398 /* player_dw01_MarioEye_dif.2.png */; };
+		66AC1FC21EFD6161000F1398 /* player_dw01_MarioEye_dif.3.png in Resources */ = {isa = PBXBuildFile; fileRef = 66AC1F961EFD6161000F1398 /* player_dw01_MarioEye_dif.3.png */; };
+		66AC1FC31EFD6161000F1398 /* player_dw01_MarioEye_dif.4.png in Resources */ = {isa = PBXBuildFile; fileRef = 66AC1F971EFD6161000F1398 /* player_dw01_MarioEye_dif.4.png */; };
+		66AC1FC41EFD6161000F1398 /* player_dw01_MarioEye_dif.5.png in Resources */ = {isa = PBXBuildFile; fileRef = 66AC1F981EFD6161000F1398 /* player_dw01_MarioEye_dif.5.png */; };
+		66AC1FC51EFD6161000F1398 /* player_dw01_MarioEye_dif.6.png in Resources */ = {isa = PBXBuildFile; fileRef = 66AC1F991EFD6161000F1398 /* player_dw01_MarioEye_dif.6.png */; };
+		66AC1FC61EFD6161000F1398 /* player_dw01_MarioEye_dif.7.png in Resources */ = {isa = PBXBuildFile; fileRef = 66AC1F9A1EFD6161000F1398 /* player_dw01_MarioEye_dif.7.png */; };
+		66AC1FC71EFD6161000F1398 /* player_dw01_MarioHand_dif.png in Resources */ = {isa = PBXBuildFile; fileRef = 66AC1F9B1EFD6161000F1398 /* player_dw01_MarioHand_dif.png */; };
+		66AC1FC81EFD6161000F1398 /* player_dw01_MarioHead_dif.png in Resources */ = {isa = PBXBuildFile; fileRef = 66AC1F9C1EFD6161000F1398 /* player_dw01_MarioHead_dif.png */; };
+		66AC1FC91EFD6161000F1398 /* Read Meh.txt in Resources */ = {isa = PBXBuildFile; fileRef = 66AC1F9D1EFD6161000F1398 /* Read Meh.txt */; };
+		66AC1FCA1EFD6161000F1398 /* Greeting.smd in Resources */ = {isa = PBXBuildFile; fileRef = 66AC1F9F1EFD6161000F1398 /* Greeting.smd */; };
+		66AC1FCB1EFD6161000F1398 /* GreetingStart.smd in Resources */ = {isa = PBXBuildFile; fileRef = 66AC1FA01EFD6161000F1398 /* GreetingStart.smd */; };
+		66AC1FCC1EFD6161000F1398 /* Jump.smd in Resources */ = {isa = PBXBuildFile; fileRef = 66AC1FA11EFD6161000F1398 /* Jump.smd */; };
+		66AC1FCD1EFD6161000F1398 /* Land.smd in Resources */ = {isa = PBXBuildFile; fileRef = 66AC1FA21EFD6161000F1398 /* Land.smd */; };
+		66AC1FCE1EFD6161000F1398 /* Notice.smd in Resources */ = {isa = PBXBuildFile; fileRef = 66AC1FA31EFD6161000F1398 /* Notice.smd */; };
+		66AC1FCF1EFD6161000F1398 /* Pose.smd in Resources */ = {isa = PBXBuildFile; fileRef = 66AC1FA41EFD6161000F1398 /* Pose.smd */; };
+		66AC1FD01EFD6161000F1398 /* Sleep.smd in Resources */ = {isa = PBXBuildFile; fileRef = 66AC1FA51EFD6161000F1398 /* Sleep.smd */; };
+		66AC1FD11EFD6161000F1398 /* SleepEnd.smd in Resources */ = {isa = PBXBuildFile; fileRef = 66AC1FA61EFD6161000F1398 /* SleepEnd.smd */; };
+		66AC1FD21EFD6161000F1398 /* SleepStart.smd in Resources */ = {isa = PBXBuildFile; fileRef = 66AC1FA71EFD6161000F1398 /* SleepStart.smd */; };
+		66AC1FD31EFD6161000F1398 /* Surprise.smd in Resources */ = {isa = PBXBuildFile; fileRef = 66AC1FA81EFD6161000F1398 /* Surprise.smd */; };
+		66AC1FD41EFD6161000F1398 /* TurnL.smd in Resources */ = {isa = PBXBuildFile; fileRef = 66AC1FA91EFD6161000F1398 /* TurnL.smd */; };
+		66AC1FD51EFD6161000F1398 /* TurnR.smd in Resources */ = {isa = PBXBuildFile; fileRef = 66AC1FAA1EFD6161000F1398 /* TurnR.smd */; };
+		66AC1FD61EFD6161000F1398 /* WaitA.smd in Resources */ = {isa = PBXBuildFile; fileRef = 66AC1FAB1EFD6161000F1398 /* WaitA.smd */; };
+		66AC1FD71EFD6161000F1398 /* WaitB.smd in Resources */ = {isa = PBXBuildFile; fileRef = 66AC1FAC1EFD6161000F1398 /* WaitB.smd */; };
+		66AC1FD81EFD6161000F1398 /* CrashBack.png in Resources */ = {isa = PBXBuildFile; fileRef = 66AC1FAF1EFD6161000F1398 /* CrashBack.png */; };
+		66AC1FD91EFD6161000F1398 /* CrashShoes.png in Resources */ = {isa = PBXBuildFile; fileRef = 66AC1FB01EFD6161000F1398 /* CrashShoes.png */; };
+		66AC1FDA1EFD6161000F1398 /* material_1.png in Resources */ = {isa = PBXBuildFile; fileRef = 66AC1FB11EFD6161000F1398 /* material_1.png */; };
+		66AC1FDB1EFD6161000F1398 /* Crash.dae in Resources */ = {isa = PBXBuildFile; fileRef = 66AC1FB21EFD6161000F1398 /* Crash.dae */; };
+		66AC1FDC1EFD6161000F1398 /* poprobuem.dat in Resources */ = {isa = PBXBuildFile; fileRef = 66AC1FB41EFD6161000F1398 /* poprobuem.dat */; };
+		66AC1FDD1EFD6161000F1398 /* poprobuem.xml in Resources */ = {isa = PBXBuildFile; fileRef = 66AC1FB51EFD6161000F1398 /* poprobuem.xml */; };
 		926096D41D4163B600510C24 /* SpriteKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 926096D31D4163B600510C24 /* SpriteKit.framework */; };
 		927B76D71D27FDC600C4F5CC /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 927B76D41D27FDC600C4F5CC /* AVFoundation.framework */; };
 		927B76D81D27FDC600C4F5CC /* CoreMotion.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 927B76D51D27FDC600C4F5CC /* CoreMotion.framework */; };
@@ -74,45 +75,46 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		663A59541EE885AA00FAB4C9 /* mesh_4_.smd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = mesh_4_.smd; sourceTree = "<group>"; };
-		663A59551EE885AA00FAB4C9 /* mesh_5_.smd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = mesh_5_.smd; sourceTree = "<group>"; };
-		663A59561EE885AA00FAB4C9 /* mesh_6_.smd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = mesh_6_.smd; sourceTree = "<group>"; };
-		663A59571EE885AA00FAB4C9 /* mesh_7_.smd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = mesh_7_.smd; sourceTree = "<group>"; };
-		663A59581EE885AA00FAB4C9 /* mesh_8_.smd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = mesh_8_.smd; sourceTree = "<group>"; };
-		663A59591EE885AA00FAB4C9 /* mesh_9_.smd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = mesh_9_.smd; sourceTree = "<group>"; };
-		663A595A1EE885AA00FAB4C9 /* Mario.dae */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml.dae; name = Mario.dae; path = ../../../../../Downloads/Mario/Mario.dae; sourceTree = "<group>"; };
-		663A595B1EE885AA00FAB4C9 /* mario.smd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = mario.smd; path = ../../../../../Downloads/Mario/mario.smd; sourceTree = "<group>"; };
-		663A595C1EE885AA00FAB4C9 /* player_dw01_MarioBody_dif.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = player_dw01_MarioBody_dif.png; path = ../../../../../Downloads/Mario/player_dw01_MarioBody_dif.png; sourceTree = "<group>"; };
-		663A595D1EE885AA00FAB4C9 /* player_dw01_MarioEye_dif.0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = player_dw01_MarioEye_dif.0.png; path = ../../../../../Downloads/Mario/player_dw01_MarioEye_dif.0.png; sourceTree = "<group>"; };
-		663A595E1EE885AA00FAB4C9 /* player_dw01_MarioEye_dif.1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = player_dw01_MarioEye_dif.1.png; path = ../../../../../Downloads/Mario/player_dw01_MarioEye_dif.1.png; sourceTree = "<group>"; };
-		663A595F1EE885AA00FAB4C9 /* player_dw01_MarioEye_dif.2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = player_dw01_MarioEye_dif.2.png; path = ../../../../../Downloads/Mario/player_dw01_MarioEye_dif.2.png; sourceTree = "<group>"; };
-		663A59601EE885AA00FAB4C9 /* player_dw01_MarioEye_dif.3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = player_dw01_MarioEye_dif.3.png; path = ../../../../../Downloads/Mario/player_dw01_MarioEye_dif.3.png; sourceTree = "<group>"; };
-		663A59611EE885AA00FAB4C9 /* player_dw01_MarioEye_dif.4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = player_dw01_MarioEye_dif.4.png; path = ../../../../../Downloads/Mario/player_dw01_MarioEye_dif.4.png; sourceTree = "<group>"; };
-		663A59621EE885AA00FAB4C9 /* player_dw01_MarioEye_dif.5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = player_dw01_MarioEye_dif.5.png; path = ../../../../../Downloads/Mario/player_dw01_MarioEye_dif.5.png; sourceTree = "<group>"; };
-		663A59631EE885AA00FAB4C9 /* player_dw01_MarioEye_dif.6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = player_dw01_MarioEye_dif.6.png; path = ../../../../../Downloads/Mario/player_dw01_MarioEye_dif.6.png; sourceTree = "<group>"; };
-		663A59641EE885AA00FAB4C9 /* player_dw01_MarioEye_dif.7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = player_dw01_MarioEye_dif.7.png; path = ../../../../../Downloads/Mario/player_dw01_MarioEye_dif.7.png; sourceTree = "<group>"; };
-		663A59651EE885AA00FAB4C9 /* player_dw01_MarioHand_dif.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = player_dw01_MarioHand_dif.png; path = ../../../../../Downloads/Mario/player_dw01_MarioHand_dif.png; sourceTree = "<group>"; };
-		663A59661EE885AA00FAB4C9 /* player_dw01_MarioHead_dif.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = player_dw01_MarioHead_dif.png; path = ../../../../../Downloads/Mario/player_dw01_MarioHead_dif.png; sourceTree = "<group>"; };
-		663A59681EE885AA00FAB4C9 /* Greeting.smd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Greeting.smd; sourceTree = "<group>"; };
-		663A59691EE885AA00FAB4C9 /* GreetingStart.smd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = GreetingStart.smd; sourceTree = "<group>"; };
-		663A596A1EE885AA00FAB4C9 /* Jump.smd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Jump.smd; sourceTree = "<group>"; };
-		663A596B1EE885AA00FAB4C9 /* Land.smd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Land.smd; sourceTree = "<group>"; };
-		663A596C1EE885AA00FAB4C9 /* Notice.smd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Notice.smd; sourceTree = "<group>"; };
-		663A596D1EE885AA00FAB4C9 /* Pose.smd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Pose.smd; sourceTree = "<group>"; };
-		663A596E1EE885AA00FAB4C9 /* Sleep.smd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Sleep.smd; sourceTree = "<group>"; };
-		663A596F1EE885AA00FAB4C9 /* SleepEnd.smd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = SleepEnd.smd; sourceTree = "<group>"; };
-		663A59701EE885AA00FAB4C9 /* SleepStart.smd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = SleepStart.smd; sourceTree = "<group>"; };
-		663A59711EE885AA00FAB4C9 /* Surprise.smd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Surprise.smd; sourceTree = "<group>"; };
-		663A59721EE885AA00FAB4C9 /* TurnL.smd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = TurnL.smd; sourceTree = "<group>"; };
-		663A59731EE885AA00FAB4C9 /* TurnR.smd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = TurnR.smd; sourceTree = "<group>"; };
-		663A59741EE885AA00FAB4C9 /* WaitA.smd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = WaitA.smd; sourceTree = "<group>"; };
-		663A59751EE885AA00FAB4C9 /* WaitB.smd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = WaitB.smd; sourceTree = "<group>"; };
-		663A59981EE88CF000FAB4C9 /* CrashBack.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CrashBack.png; sourceTree = "<group>"; };
-		663A59991EE88CF000FAB4C9 /* CrashShoes.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CrashShoes.png; sourceTree = "<group>"; };
-		663A599A1EE88CF000FAB4C9 /* material_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = material_1.png; sourceTree = "<group>"; };
-		663A599E1EE88D0300FAB4C9 /* Crash.dae */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml.dae; name = Crash.dae; path = ../Crash.dae; sourceTree = "<group>"; };
-		669C0B211EF67D4A008B8A5E /* poprobuem.dat */ = {isa = PBXFileReference; lastKnownFileType = file; name = poprobuem.dat; path = "../../../../../Downloads/poprobuem 2/poprobuem.dat"; sourceTree = "<group>"; };
-		669C0B221EF67D4A008B8A5E /* poprobuem.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = poprobuem.xml; path = "../../../../../Downloads/poprobuem 2/poprobuem.xml"; sourceTree = "<group>"; };
+		66AC1F8A1EFD6161000F1398 /* mesh_4_.smd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = mesh_4_.smd; sourceTree = "<group>"; };
+		66AC1F8B1EFD6161000F1398 /* mesh_5_.smd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = mesh_5_.smd; sourceTree = "<group>"; };
+		66AC1F8C1EFD6161000F1398 /* mesh_6_.smd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = mesh_6_.smd; sourceTree = "<group>"; };
+		66AC1F8D1EFD6161000F1398 /* mesh_7_.smd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = mesh_7_.smd; sourceTree = "<group>"; };
+		66AC1F8E1EFD6161000F1398 /* mesh_8_.smd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = mesh_8_.smd; sourceTree = "<group>"; };
+		66AC1F8F1EFD6161000F1398 /* mesh_9_.smd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = mesh_9_.smd; sourceTree = "<group>"; };
+		66AC1F901EFD6161000F1398 /* Mario.dae */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml.dae; path = Mario.dae; sourceTree = "<group>"; };
+		66AC1F911EFD6161000F1398 /* mario.smd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = mario.smd; sourceTree = "<group>"; };
+		66AC1F921EFD6161000F1398 /* player_dw01_MarioBody_dif.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = player_dw01_MarioBody_dif.png; sourceTree = "<group>"; };
+		66AC1F931EFD6161000F1398 /* player_dw01_MarioEye_dif.0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = player_dw01_MarioEye_dif.0.png; sourceTree = "<group>"; };
+		66AC1F941EFD6161000F1398 /* player_dw01_MarioEye_dif.1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = player_dw01_MarioEye_dif.1.png; sourceTree = "<group>"; };
+		66AC1F951EFD6161000F1398 /* player_dw01_MarioEye_dif.2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = player_dw01_MarioEye_dif.2.png; sourceTree = "<group>"; };
+		66AC1F961EFD6161000F1398 /* player_dw01_MarioEye_dif.3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = player_dw01_MarioEye_dif.3.png; sourceTree = "<group>"; };
+		66AC1F971EFD6161000F1398 /* player_dw01_MarioEye_dif.4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = player_dw01_MarioEye_dif.4.png; sourceTree = "<group>"; };
+		66AC1F981EFD6161000F1398 /* player_dw01_MarioEye_dif.5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = player_dw01_MarioEye_dif.5.png; sourceTree = "<group>"; };
+		66AC1F991EFD6161000F1398 /* player_dw01_MarioEye_dif.6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = player_dw01_MarioEye_dif.6.png; sourceTree = "<group>"; };
+		66AC1F9A1EFD6161000F1398 /* player_dw01_MarioEye_dif.7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = player_dw01_MarioEye_dif.7.png; sourceTree = "<group>"; };
+		66AC1F9B1EFD6161000F1398 /* player_dw01_MarioHand_dif.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = player_dw01_MarioHand_dif.png; sourceTree = "<group>"; };
+		66AC1F9C1EFD6161000F1398 /* player_dw01_MarioHead_dif.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = player_dw01_MarioHead_dif.png; sourceTree = "<group>"; };
+		66AC1F9D1EFD6161000F1398 /* Read Meh.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Read Meh.txt"; sourceTree = "<group>"; };
+		66AC1F9F1EFD6161000F1398 /* Greeting.smd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Greeting.smd; sourceTree = "<group>"; };
+		66AC1FA01EFD6161000F1398 /* GreetingStart.smd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = GreetingStart.smd; sourceTree = "<group>"; };
+		66AC1FA11EFD6161000F1398 /* Jump.smd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Jump.smd; sourceTree = "<group>"; };
+		66AC1FA21EFD6161000F1398 /* Land.smd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Land.smd; sourceTree = "<group>"; };
+		66AC1FA31EFD6161000F1398 /* Notice.smd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Notice.smd; sourceTree = "<group>"; };
+		66AC1FA41EFD6161000F1398 /* Pose.smd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Pose.smd; sourceTree = "<group>"; };
+		66AC1FA51EFD6161000F1398 /* Sleep.smd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Sleep.smd; sourceTree = "<group>"; };
+		66AC1FA61EFD6161000F1398 /* SleepEnd.smd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = SleepEnd.smd; sourceTree = "<group>"; };
+		66AC1FA71EFD6161000F1398 /* SleepStart.smd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = SleepStart.smd; sourceTree = "<group>"; };
+		66AC1FA81EFD6161000F1398 /* Surprise.smd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Surprise.smd; sourceTree = "<group>"; };
+		66AC1FA91EFD6161000F1398 /* TurnL.smd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = TurnL.smd; sourceTree = "<group>"; };
+		66AC1FAA1EFD6161000F1398 /* TurnR.smd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = TurnR.smd; sourceTree = "<group>"; };
+		66AC1FAB1EFD6161000F1398 /* WaitA.smd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = WaitA.smd; sourceTree = "<group>"; };
+		66AC1FAC1EFD6161000F1398 /* WaitB.smd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = WaitB.smd; sourceTree = "<group>"; };
+		66AC1FAF1EFD6161000F1398 /* CrashBack.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CrashBack.png; sourceTree = "<group>"; };
+		66AC1FB01EFD6161000F1398 /* CrashShoes.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CrashShoes.png; sourceTree = "<group>"; };
+		66AC1FB11EFD6161000F1398 /* material_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = material_1.png; sourceTree = "<group>"; };
+		66AC1FB21EFD6161000F1398 /* Crash.dae */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml.dae; name = Crash.dae; path = "VuforiaSampleSwift/VuforiaAssets/ImageTargets/PlayStation - Crash Bandicoot - Crash Bandicoot/Crash.dae"; sourceTree = SOURCE_ROOT; };
+		66AC1FB41EFD6161000F1398 /* poprobuem.dat */ = {isa = PBXFileReference; lastKnownFileType = file; name = poprobuem.dat; path = "poprobuem 2/poprobuem.dat"; sourceTree = "<group>"; };
+		66AC1FB51EFD6161000F1398 /* poprobuem.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = poprobuem.xml; path = "poprobuem 2/poprobuem.xml"; sourceTree = "<group>"; };
 		926096D31D4163B600510C24 /* SpriteKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SpriteKit.framework; path = System/Library/Frameworks/SpriteKit.framework; sourceTree = SDKROOT; };
 		927B76D31D27FDC600C4F5CC /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
 		927B76D41D27FDC600C4F5CC /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
@@ -253,74 +255,73 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		663A593A1EE8852600FAB4C9 /* Mario */ = {
+		66AC1F881EFD6161000F1398 /* Mario */ = {
 			isa = PBXGroup;
 			children = (
-				663A59531EE885AA00FAB4C9 /* Hands */,
-				663A595A1EE885AA00FAB4C9 /* Mario.dae */,
-				663A595B1EE885AA00FAB4C9 /* mario.smd */,
-				663A595C1EE885AA00FAB4C9 /* player_dw01_MarioBody_dif.png */,
-				663A595D1EE885AA00FAB4C9 /* player_dw01_MarioEye_dif.0.png */,
-				663A595E1EE885AA00FAB4C9 /* player_dw01_MarioEye_dif.1.png */,
-				663A595F1EE885AA00FAB4C9 /* player_dw01_MarioEye_dif.2.png */,
-				663A59601EE885AA00FAB4C9 /* player_dw01_MarioEye_dif.3.png */,
-				663A59611EE885AA00FAB4C9 /* player_dw01_MarioEye_dif.4.png */,
-				663A59621EE885AA00FAB4C9 /* player_dw01_MarioEye_dif.5.png */,
-				663A59631EE885AA00FAB4C9 /* player_dw01_MarioEye_dif.6.png */,
-				663A59641EE885AA00FAB4C9 /* player_dw01_MarioEye_dif.7.png */,
-				663A59651EE885AA00FAB4C9 /* player_dw01_MarioHand_dif.png */,
-				663A59661EE885AA00FAB4C9 /* player_dw01_MarioHead_dif.png */,
-				663A59671EE885AA00FAB4C9 /* SMD Animations */,
+				66AC1F891EFD6161000F1398 /* Hands */,
+				66AC1F901EFD6161000F1398 /* Mario.dae */,
+				66AC1F911EFD6161000F1398 /* mario.smd */,
+				66AC1F921EFD6161000F1398 /* player_dw01_MarioBody_dif.png */,
+				66AC1F931EFD6161000F1398 /* player_dw01_MarioEye_dif.0.png */,
+				66AC1F941EFD6161000F1398 /* player_dw01_MarioEye_dif.1.png */,
+				66AC1F951EFD6161000F1398 /* player_dw01_MarioEye_dif.2.png */,
+				66AC1F961EFD6161000F1398 /* player_dw01_MarioEye_dif.3.png */,
+				66AC1F971EFD6161000F1398 /* player_dw01_MarioEye_dif.4.png */,
+				66AC1F981EFD6161000F1398 /* player_dw01_MarioEye_dif.5.png */,
+				66AC1F991EFD6161000F1398 /* player_dw01_MarioEye_dif.6.png */,
+				66AC1F9A1EFD6161000F1398 /* player_dw01_MarioEye_dif.7.png */,
+				66AC1F9B1EFD6161000F1398 /* player_dw01_MarioHand_dif.png */,
+				66AC1F9C1EFD6161000F1398 /* player_dw01_MarioHead_dif.png */,
+				66AC1F9D1EFD6161000F1398 /* Read Meh.txt */,
+				66AC1F9E1EFD6161000F1398 /* SMD Animations */,
 			);
-			name = Mario;
+			path = Mario;
 			sourceTree = "<group>";
 		};
-		663A59531EE885AA00FAB4C9 /* Hands */ = {
+		66AC1F891EFD6161000F1398 /* Hands */ = {
 			isa = PBXGroup;
 			children = (
-				663A59541EE885AA00FAB4C9 /* mesh_4_.smd */,
-				663A59551EE885AA00FAB4C9 /* mesh_5_.smd */,
-				663A59561EE885AA00FAB4C9 /* mesh_6_.smd */,
-				663A59571EE885AA00FAB4C9 /* mesh_7_.smd */,
-				663A59581EE885AA00FAB4C9 /* mesh_8_.smd */,
-				663A59591EE885AA00FAB4C9 /* mesh_9_.smd */,
+				66AC1F8A1EFD6161000F1398 /* mesh_4_.smd */,
+				66AC1F8B1EFD6161000F1398 /* mesh_5_.smd */,
+				66AC1F8C1EFD6161000F1398 /* mesh_6_.smd */,
+				66AC1F8D1EFD6161000F1398 /* mesh_7_.smd */,
+				66AC1F8E1EFD6161000F1398 /* mesh_8_.smd */,
+				66AC1F8F1EFD6161000F1398 /* mesh_9_.smd */,
 			);
-			name = Hands;
-			path = ../../../../../Downloads/Mario/Hands;
+			path = Hands;
 			sourceTree = "<group>";
 		};
-		663A59671EE885AA00FAB4C9 /* SMD Animations */ = {
+		66AC1F9E1EFD6161000F1398 /* SMD Animations */ = {
 			isa = PBXGroup;
 			children = (
-				663A59681EE885AA00FAB4C9 /* Greeting.smd */,
-				663A59691EE885AA00FAB4C9 /* GreetingStart.smd */,
-				663A596A1EE885AA00FAB4C9 /* Jump.smd */,
-				663A596B1EE885AA00FAB4C9 /* Land.smd */,
-				663A596C1EE885AA00FAB4C9 /* Notice.smd */,
-				663A596D1EE885AA00FAB4C9 /* Pose.smd */,
-				663A596E1EE885AA00FAB4C9 /* Sleep.smd */,
-				663A596F1EE885AA00FAB4C9 /* SleepEnd.smd */,
-				663A59701EE885AA00FAB4C9 /* SleepStart.smd */,
-				663A59711EE885AA00FAB4C9 /* Surprise.smd */,
-				663A59721EE885AA00FAB4C9 /* TurnL.smd */,
-				663A59731EE885AA00FAB4C9 /* TurnR.smd */,
-				663A59741EE885AA00FAB4C9 /* WaitA.smd */,
-				663A59751EE885AA00FAB4C9 /* WaitB.smd */,
+				66AC1F9F1EFD6161000F1398 /* Greeting.smd */,
+				66AC1FA01EFD6161000F1398 /* GreetingStart.smd */,
+				66AC1FA11EFD6161000F1398 /* Jump.smd */,
+				66AC1FA21EFD6161000F1398 /* Land.smd */,
+				66AC1FA31EFD6161000F1398 /* Notice.smd */,
+				66AC1FA41EFD6161000F1398 /* Pose.smd */,
+				66AC1FA51EFD6161000F1398 /* Sleep.smd */,
+				66AC1FA61EFD6161000F1398 /* SleepEnd.smd */,
+				66AC1FA71EFD6161000F1398 /* SleepStart.smd */,
+				66AC1FA81EFD6161000F1398 /* Surprise.smd */,
+				66AC1FA91EFD6161000F1398 /* TurnL.smd */,
+				66AC1FAA1EFD6161000F1398 /* TurnR.smd */,
+				66AC1FAB1EFD6161000F1398 /* WaitA.smd */,
+				66AC1FAC1EFD6161000F1398 /* WaitB.smd */,
 			);
-			name = "SMD Animations";
-			path = "../../../../../Downloads/Mario/SMD Animations";
+			path = "SMD Animations";
 			sourceTree = "<group>";
 		};
-		663A59971EE88CF000FAB4C9 /* Crash */ = {
+		66AC1FAE1EFD6161000F1398 /* Crash */ = {
 			isa = PBXGroup;
 			children = (
-				663A599E1EE88D0300FAB4C9 /* Crash.dae */,
-				663A59981EE88CF000FAB4C9 /* CrashBack.png */,
-				663A59991EE88CF000FAB4C9 /* CrashShoes.png */,
-				663A599A1EE88CF000FAB4C9 /* material_1.png */,
+				66AC1FB21EFD6161000F1398 /* Crash.dae */,
+				66AC1FAF1EFD6161000F1398 /* CrashBack.png */,
+				66AC1FB01EFD6161000F1398 /* CrashShoes.png */,
+				66AC1FB11EFD6161000F1398 /* material_1.png */,
 			);
 			name = Crash;
-			path = "../../../../../Downloads/PlayStation - Crash Bandicoot - Crash Bandicoot/Crash";
+			path = "PlayStation - Crash Bandicoot - Crash Bandicoot/Crash";
 			sourceTree = "<group>";
 		};
 		927B76DF1D27FE5900C4F5CC /* Frameworks */ = {
@@ -553,12 +554,12 @@
 		92DCE9B41E37CEA400E0DE1C /* ImageTargets */ = {
 			isa = PBXGroup;
 			children = (
-				663A59971EE88CF000FAB4C9 /* Crash */,
-				663A593A1EE8852600FAB4C9 /* Mario */,
+				66AC1FAE1EFD6161000F1398 /* Crash */,
+				66AC1F881EFD6161000F1398 /* Mario */,
 				92DCE9B51E37CEA400E0DE1C /* IT.png */,
-				669C0B211EF67D4A008B8A5E /* poprobuem.dat */,
-				669C0B221EF67D4A008B8A5E /* poprobuem.xml */,
 				92DCE9B61E37CEA400E0DE1C /* IT_about.html */,
+				66AC1FB41EFD6161000F1398 /* poprobuem.dat */,
+				66AC1FB51EFD6161000F1398 /* poprobuem.xml */,
 			);
 			path = ImageTargets;
 			sourceTree = "<group>";
@@ -624,54 +625,55 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				663A59951EE885AA00FAB4C9 /* WaitA.smd in Resources */,
+				66AC1FC61EFD6161000F1398 /* player_dw01_MarioEye_dif.7.png in Resources */,
+				66AC1FC41EFD6161000F1398 /* player_dw01_MarioEye_dif.5.png in Resources */,
+				66AC1FC71EFD6161000F1398 /* player_dw01_MarioHand_dif.png in Resources */,
+				66AC1FBD1EFD6161000F1398 /* mario.smd in Resources */,
+				66AC1FC11EFD6161000F1398 /* player_dw01_MarioEye_dif.2.png in Resources */,
+				66AC1FBF1EFD6161000F1398 /* player_dw01_MarioEye_dif.0.png in Resources */,
+				66AC1FCB1EFD6161000F1398 /* GreetingStart.smd in Resources */,
+				66AC1FBE1EFD6161000F1398 /* player_dw01_MarioBody_dif.png in Resources */,
+				66AC1FD01EFD6161000F1398 /* Sleep.smd in Resources */,
+				66AC1FC51EFD6161000F1398 /* player_dw01_MarioEye_dif.6.png in Resources */,
+				66AC1FC21EFD6161000F1398 /* player_dw01_MarioEye_dif.3.png in Resources */,
+				66AC1FB61EFD6161000F1398 /* mesh_4_.smd in Resources */,
 				928C34231EAF608600BC07DE /* license_3rdpartynotice.txt in Resources */,
-				663A597E1EE885AA00FAB4C9 /* player_dw01_MarioBody_dif.png in Resources */,
-				663A597C1EE885AA00FAB4C9 /* Mario.dae in Resources */,
-				663A59851EE885AA00FAB4C9 /* player_dw01_MarioEye_dif.6.png in Resources */,
-				663A59841EE885AA00FAB4C9 /* player_dw01_MarioEye_dif.5.png in Resources */,
+				66AC1FDC1EFD6161000F1398 /* poprobuem.dat in Resources */,
+				66AC1FC91EFD6161000F1398 /* Read Meh.txt in Resources */,
+				66AC1FC81EFD6161000F1398 /* player_dw01_MarioHead_dif.png in Resources */,
 				92AA11131D27A5EB00E56CBE /* LaunchScreen.storyboard in Resources */,
+				66AC1FB91EFD6161000F1398 /* mesh_7_.smd in Resources */,
+				66AC1FD71EFD6161000F1398 /* WaitB.smd in Resources */,
+				66AC1FCF1EFD6161000F1398 /* Pose.smd in Resources */,
+				66AC1FC31EFD6161000F1398 /* player_dw01_MarioEye_dif.4.png in Resources */,
+				66AC1FCD1EFD6161000F1398 /* Land.smd in Resources */,
 				92AA11101D27A5EB00E56CBE /* Assets.xcassets in Resources */,
-				663A599D1EE88CF000FAB4C9 /* material_1.png in Resources */,
-				663A59761EE885AA00FAB4C9 /* mesh_4_.smd in Resources */,
-				663A59931EE885AA00FAB4C9 /* TurnL.smd in Resources */,
+				66AC1FCA1EFD6161000F1398 /* Greeting.smd in Resources */,
+				66AC1FCE1EFD6161000F1398 /* Notice.smd in Resources */,
+				66AC1FD11EFD6161000F1398 /* SleepEnd.smd in Resources */,
 				928C34251EAF608600BC07DE /* readme.txt in Resources */,
-				663A598A1EE885AA00FAB4C9 /* GreetingStart.smd in Resources */,
-				663A598E1EE885AA00FAB4C9 /* Pose.smd in Resources */,
-				663A598B1EE885AA00FAB4C9 /* Jump.smd in Resources */,
-				663A599F1EE88D0300FAB4C9 /* Crash.dae in Resources */,
-				663A59861EE885AA00FAB4C9 /* player_dw01_MarioEye_dif.7.png in Resources */,
-				663A59901EE885AA00FAB4C9 /* SleepEnd.smd in Resources */,
-				663A598D1EE885AA00FAB4C9 /* Notice.smd in Resources */,
-				663A59961EE885AA00FAB4C9 /* WaitB.smd in Resources */,
 				92AA11851D27B96300E56CBE /* Localizable.strings in Resources */,
-				663A598F1EE885AA00FAB4C9 /* Sleep.smd in Resources */,
-				663A597D1EE885AA00FAB4C9 /* mario.smd in Resources */,
-				669C0B231EF67D4A008B8A5E /* poprobuem.dat in Resources */,
+				66AC1FB71EFD6161000F1398 /* mesh_5_.smd in Resources */,
+				66AC1FCC1EFD6161000F1398 /* Jump.smd in Resources */,
+				66AC1FBA1EFD6161000F1398 /* mesh_8_.smd in Resources */,
+				66AC1FD91EFD6161000F1398 /* CrashShoes.png in Resources */,
+				66AC1FD81EFD6161000F1398 /* CrashBack.png in Resources */,
+				66AC1FBC1EFD6161000F1398 /* Mario.dae in Resources */,
 				928C34241EAF608600BC07DE /* readme.txt in Resources */,
-				663A597B1EE885AA00FAB4C9 /* mesh_9_.smd in Resources */,
-				663A59831EE885AA00FAB4C9 /* player_dw01_MarioEye_dif.4.png in Resources */,
-				663A597F1EE885AA00FAB4C9 /* player_dw01_MarioEye_dif.0.png in Resources */,
-				663A59881EE885AA00FAB4C9 /* player_dw01_MarioHead_dif.png in Resources */,
-				663A59891EE885AA00FAB4C9 /* Greeting.smd in Resources */,
-				663A59921EE885AA00FAB4C9 /* Surprise.smd in Resources */,
-				663A597A1EE885AA00FAB4C9 /* mesh_8_.smd in Resources */,
-				663A59911EE885AA00FAB4C9 /* SleepStart.smd in Resources */,
-				663A59821EE885AA00FAB4C9 /* player_dw01_MarioEye_dif.3.png in Resources */,
-				663A599B1EE88CF000FAB4C9 /* CrashBack.png in Resources */,
-				663A599C1EE88CF000FAB4C9 /* CrashShoes.png in Resources */,
+				66AC1FDA1EFD6161000F1398 /* material_1.png in Resources */,
+				66AC1FBB1EFD6161000F1398 /* mesh_9_.smd in Resources */,
+				66AC1FD41EFD6161000F1398 /* TurnL.smd in Resources */,
+				66AC1FDB1EFD6161000F1398 /* Crash.dae in Resources */,
+				66AC1FD61EFD6161000F1398 /* WaitA.smd in Resources */,
 				92DCE9BB1E37CEA400E0DE1C /* IT.png in Resources */,
-				669C0B241EF67D4A008B8A5E /* poprobuem.xml in Resources */,
+				66AC1FC01EFD6161000F1398 /* player_dw01_MarioEye_dif.1.png in Resources */,
 				92AA110E1D27A5EB00E56CBE /* Main.storyboard in Resources */,
-				663A59871EE885AA00FAB4C9 /* player_dw01_MarioHand_dif.png in Resources */,
-				663A598C1EE885AA00FAB4C9 /* Land.smd in Resources */,
-				663A59771EE885AA00FAB4C9 /* mesh_5_.smd in Resources */,
-				663A59941EE885AA00FAB4C9 /* TurnR.smd in Resources */,
-				663A59801EE885AA00FAB4C9 /* player_dw01_MarioEye_dif.1.png in Resources */,
-				663A59811EE885AA00FAB4C9 /* player_dw01_MarioEye_dif.2.png in Resources */,
-				663A59781EE885AA00FAB4C9 /* mesh_6_.smd in Resources */,
+				66AC1FD21EFD6161000F1398 /* SleepStart.smd in Resources */,
+				66AC1FD31EFD6161000F1398 /* Surprise.smd in Resources */,
+				66AC1FD51EFD6161000F1398 /* TurnR.smd in Resources */,
+				66AC1FDD1EFD6161000F1398 /* poprobuem.xml in Resources */,
+				66AC1FB81EFD6161000F1398 /* mesh_6_.smd in Resources */,
 				92DCE9BC1E37CEA400E0DE1C /* IT_about.html in Resources */,
-				663A59791EE885AA00FAB4C9 /* mesh_7_.smd in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,0 +1,5 @@
+MarioEye needs image mapping Repeat X:2 Y:1 Mirrored X/Y
+
+MarioCapHead needs image mapping Mirrored X/Y
+
+MarioBody needs image mapping Mirrored X/Y
