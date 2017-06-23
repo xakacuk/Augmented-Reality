@@ -4,7 +4,7 @@
 //
 //  Created by Yoshihiro Kato on 2016/07/02.
 //  Copyright © 2016年 Yoshihiro Kato. All rights reserved.
-//
+//  test
 
 import UIKit
 
